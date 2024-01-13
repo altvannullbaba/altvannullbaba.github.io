@@ -28,7 +28,7 @@ body {
     justify-content: center;
     --animate-duration: 1300ms;
     /* background-image: url("https://media.discordapp.net/attachments/1175745713263624244/1175877479727108217/giphy_2-3x-RIFE-RIFE4.0-44.76fps.gif?ex=656cd43d&is=655a5f3d&hm=c1541b79bb49d363f4201f329ca0a7712c8fbcb66d69232e2da7ebe19e68c0f6&=&width=600&height=450"); */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)),url("https://cdn.discordapp.com/attachments/1170849276633563198/1191525332126281748/giphy_11-3x-RIFE-RIFE4.0-44.76fps.gif?ex=65a5c170&is=65934c70&hm=a1b89f8f2a1ffd663e2335ce0728eb98dc1fb56704279f515bde74b1774096aa&");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)),url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ddgh-frZR_Bl3FdS9n2Y0EL-q048TlpSut_5UqmFfg&s");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
