@@ -2,18 +2,18 @@ function aBB() {
     // Get the current URL.
     var bAA = window.location.href;
   
-    // Check if the URL starts with https://cengizhan.xyz/.
-    if (!bAA.startsWith("https://cengizhan.xyz/")) {
+    // Check if the URL starts with https://aslanovic.xyz/.
+    if (!bAA.startsWith("https://aslanovic.xyz/")) {
       // Delete all elements from the DOM.
       document.body.innerHTML = "";
-      window.location.href = "https://cengizhan.xyz/";
+      window.location.href = "https://aslanovic.xyz/";
     }
   }
 (function (window, document, undefined) {
     window.onload = init;
     function init() {
         // the code to be called when the dom has fully loaded
-        aBB();
+        //aBB();
         let lBB = document.getElementById("loader");
         let tLBB = document.getElementById("loadingtext");
         let pcBBA = document.getElementById("pagecontent");
