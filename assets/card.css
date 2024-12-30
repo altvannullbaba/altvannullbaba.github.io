@@ -24,7 +24,7 @@
     gap: 0.4rem;
 }
 .card-name-title {
-    background-image: url(https://i.pinimg.com/originals/b0/4d/3a/b04d3a0946bbe86a2722ce7fc2f4f472.gif);
+    background-image: url("/purple.gif");
     filter: drop-shadow(8px 8px 10px #494d78);
     color: #494d78;
     font-weight: 600;
