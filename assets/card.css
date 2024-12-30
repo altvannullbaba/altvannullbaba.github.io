@@ -24,9 +24,9 @@
     gap: 0.4rem;
 }
 .card-name-title {
-    background-image: url(https://media.discordapp.net/attachments/987149728800198686/991834200309248070/sparkle.gif);
-    filter: drop-shadow(8px 8px 10px #C95DF9);
-    color: #C95DF9;
+    background-image: url(https://i.pinimg.com/originals/b0/4d/3a/b04d3a0946bbe86a2722ce7fc2f4f472.gif);
+    filter: drop-shadow(8px 8px 10px #494d78);
+    color: #494d78;
     font-weight: 600;
     font-size: 20px;
     font-family: sans-serif;
@@ -37,7 +37,7 @@
 }
 
 .card-bio {
-    color: #c0c0c0;
+    color: #494d78;
     font-size: .875rem;
     line-height: 1.25rem;
     font-family: sans-serif;

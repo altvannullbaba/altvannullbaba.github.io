@@ -30,7 +30,7 @@ body {
     align-items: center;
     justify-content: center;
     --animate-duration: 1300ms;
-    background-image: url("https://cdn.discordapp.com/attachments/1206792013375078410/1257133979509985340/ozel.gif?ex=66834cc1&is=6681fb41&hm=d571285a6485d6a007cca4661843b4c0f67a1e3c586ee49308de08500720b172&");
+    background-image: url("/ezgif.gif");
     /*background-image: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)),url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ddgh-frZR_Bl3FdS9n2Y0EL-q048TlpSut_5UqmFfg&s"); */
     background-repeat: no-repeat;
     background-size: cover;

@@ -31,14 +31,14 @@
 }
 
 .drop-shadow-tiktok {
-    filter: drop-shadow(0 0 3px rgba(0, 242, 234, .5));
+    filter: drop-shadow(0 0 3px rgba(29, 161, 242, .5));
 }
 
 .drop-shadow-twitter {
     filter: drop-shadow(0 0 3px rgba(29, 161, 242, .5));
 }
 .drop-shadow-youtube {
-    filter: drop-shadow(0 0 3px rgba(196, 48, 43, .5));
+    filter: drop-shadow(0 0 3px rgba(29, 161, 242, .5));
 }
 
 
