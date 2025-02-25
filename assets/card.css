@@ -25,8 +25,8 @@
 }
 .card-name-title {
     background-image: url("/purple.gif");
-    filter: drop-shadow(8px 8px 10px #494d78);
-    color: #494d78;
+    filter: drop-shadow(8px 8px 10px #53e5e0);
+    color: #53e5e0;
     font-weight: 600;
     font-size: 20px;
     font-family: sans-serif;
@@ -37,7 +37,7 @@
 }
 
 .card-bio {
-    color: #494d78;
+    color: #53e5e0;
     font-size: .875rem;
     line-height: 1.25rem;
     font-family: sans-serif;
@@ -82,14 +82,14 @@
 }
 
 .avatar {
-    vertical-align: middle;
     width: 9.5rem;
     height: 9.5rem;
     object-fit: cover;
-    border-radius: 9999px;
-    margin: auto;
+    border-radius: 50%; /* Gebruik percentage voor een perfecte cirkel */
+    margin: 0 auto; /* Kortere notatie voor margin */
     display: block;
-    filter: drop-shadow(0 0 3px rgba(0, 0, 0, 0.80));
+    filter: drop-shadow(0 0 3px rgba(0, 0, 0, 0.8)); /* rgba-waarde iets verkort */
+    vertical-align: middle; /* Blijft behouden, maar is alleen nodig voor inline of inline-block elementen */
 }
 
 @media only screen and (max-width: 300px) {
