@@ -25,8 +25,8 @@
 }
 .card-name-title {
     background-image: url("/purple.gif");
-    filter: drop-shadow(8px 8px 10px #53e5e0);
-    color: #53e5e0;
+    filter: drop-shadow(8px 8px 10px #ffffff);
+    color: #ffffff;
     font-weight: 600;
     font-size: 20px;
     font-family: sans-serif;
@@ -37,7 +37,7 @@
 }
 
 .card-bio {
-    color: #53e5e0;
+    color: #ffffff;
     font-size: .875rem;
     line-height: 1.25rem;
     font-family: sans-serif;
