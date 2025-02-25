@@ -30,7 +30,7 @@ body {
     align-items: center;
     justify-content: center;
     --animate-duration: 1300ms;
-    background-image: url("/dene.mp4");
+    background-image: url("/assets/icons/image.png");
     /*background-image: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)),url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ddgh-frZR_Bl3FdS9n2Y0EL-q048TlpSut_5UqmFfg&s"); */
     background-repeat: no-repeat;
     background-size: cover;
